@@ -1,4 +1,9 @@
 body{
-	background-image: url("http://wfiles.brothersoft.com/d/disney-world_96241-1280x1024.jpg");
+	background-image: url("file://C:/Users/Kimdenning/Documents/Hangman-Game/assets/images/castle.jpg");
 	color:white;
+}
+
+#mal{
+	height:71px;
+	width: 50px;
 }
